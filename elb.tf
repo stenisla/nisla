@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "us-east-1"
-  access_key = "AKIATLO65ST2NYSELYRB"
-  secret_key = "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"
+  access_key = "xxxxxxxxxxxxxxxxxxxxxx"
+  secret_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
 resource "aws_elb" "jjtechelb" {
