@@ -1,7 +1,7 @@
 /*
 provider "aws" {
   region     = "us-east-2"
-  access_key = "xxxxxx"
+  access_key = "xxxxxxxxxxx"
   secret_key = "xxxxxxxxxxxxxxxxxxxxxxxx"
 }
 
